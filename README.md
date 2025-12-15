@@ -234,3 +234,32 @@ Proje ile ilgili sorularınız için: 📧 E-posta: akgundogduesr@gmail.com
 ---
 
 ## 🖼️Ekran görüntüleri:
+
+<img width="1891" height="885" alt="C3" src="https://github.com/user-attachments/assets/8c6714d7-20ca-403c-9c65-ba47345007ed" />
+<img width="804" height="673" alt="C2" src="https://github.com/user-attachments/assets/16387788-a109-4616-a544-8e34b16d5afc" />
+<img width="729" height="773" alt="C1" src="https://github.com/user-attachments/assets/91e8275a-466e-47d4-8c3e-f29c37419c86" />
+
+<img width="1891" height="885" alt="C3" src="https://github.com/user-attachments/assets/b1878bfc-e016-43de-b57a-a1a00bf8c545" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
